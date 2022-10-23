@@ -1,8 +1,8 @@
-<h3 align="center">♡ Ola! Bem vindo ao meu repositório GitHub! ~ em construção ♡</h3>
+<h3 align="center"> Ola! Bem vindo ao meu repositório GitHub! </h3>
 <div align="center">
-  <a href="https://github.com/patriciamilane">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patriciamilane&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciamilane&layout=compact&langs_count=7&theme=buefy"/>
+  <a href="https://github.com/patimilane">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=patimilane&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patimilane&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   
   <h3 align="center"> Tecnologias em estudo: </h3>
@@ -14,12 +14,12 @@
   
   ##
   <br>
- 
+<!--  
 <div align="center"> 
   <a href="https://instagram.com/patriciamilane" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patimilane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div> -->
 
 
